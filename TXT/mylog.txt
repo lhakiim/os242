@@ -9,7 +9,7 @@ ZCZC W02 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 30 L11 Assignment #01
 ZCZC W02 30 L12 Assignment #02
 ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 30 L23 Bash, Regex, SED, AWK.
+ZCZC W02 30 L23 Bash, Regex, SED.
 ZCZC W02 20 L13 Assignment #03
 ZCZC W02 10 L14 Assignment #04
 ZCZC W02 15 L15 Assignment #05
