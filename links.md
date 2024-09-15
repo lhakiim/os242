@@ -14,7 +14,9 @@ permalink: LINKS/
   The Deadline is 7 (seven) days after the assignment was announced.
 * [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
   Slides with LaTeX sources code.
-
+* [Better Explanation of Bash](https://www.youtube.com/watch?v=I4EWvMFj37g)
+* [Learn Regex](https://www.youtube.com/watch?v=bgBWp9EIlMM)
+* [Learn C-Languange](https://www.geeksforgeeks.org/c-language-introduction/)
 <br>
 <br>
 <hr>
