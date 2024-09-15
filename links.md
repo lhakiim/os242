@@ -16,7 +16,11 @@ permalink: LINKS/
   Slides with LaTeX sources code.
 * [Better Explanation of Bash](https://www.youtube.com/watch?v=I4EWvMFj37g)
 * [Learn Regex](https://www.youtube.com/watch?v=bgBWp9EIlMM)
+  Learn how to use regular expressions (regex)
 * [Learn C-Languange](https://www.geeksforgeeks.org/c-language-introduction/)
+  Introduction Of C Language
+* [SSH Cheatsheet](https://quickref.me/ssh)
+  SSH Command
 <br>
 <br>
 <hr>
