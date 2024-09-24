@@ -11,7 +11,8 @@ ZCZC W03 120 L61 Fixing some issues Virtual Box
 ZCZC W03 30 L25 C-Language including Make
 ZCZC W03 50 L09 Pop Quiz Week 03
 ZCZC W03 20 L41 TXT/mylog.txt related
-ZCZC W03 10 L43 TXT/myrank.txt related
+ZCZC W03 30 L43 TXT/myrank.txt related
+ZCZC W03 20 L03 GitHub related
 
 ZCZC W02 100 L02 CLASSROOM meetings related
 ZCZC W02 100 L02 CLASSROOM meetings related
