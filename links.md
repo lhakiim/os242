@@ -41,4 +41,10 @@ permalink: LINKS/
 * [Understanding Pointers in C](https://www.w3schools.com/c/c_pointers.php)
   Learning pointers in C
 <br>
+
+## 📒 WEEK05
+* [C++ Structures (struct)](https://www.w3schools.com/cpp/cpp_structs.asp)
+  struct is a user-defined data type that allows you to group different variables (often called "members") under a single name.
+* [Find and Replace in vim](https://linuxize.com/post/vim-find-replace/)
+  Using find and replace in Vim helps tremendously when you need to search for and replace a word.
 <hr>
