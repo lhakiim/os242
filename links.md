@@ -47,4 +47,10 @@ permalink: LINKS/
   struct is a user-defined data type that allows you to group different variables (often called "members") under a single name.
 * [Find and Replace in vim](https://linuxize.com/post/vim-find-replace/)
   Using find and replace in Vim helps tremendously when you need to search for and replace a word.
-<hr>
+<br>
+
+## 💻 WEEK06
+* [md5sum Command in Linux](https://www.geeksforgeeks.org/md5sum-linux-command/)
+  md5sum Command in Linux with Examples
+* [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  Explain about dynamic memory allocation using malloc(), calloc(), free(), and realloc()
