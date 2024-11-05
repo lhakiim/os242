@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 50 L01 SCELE related
+ZCZC W07 80 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 80 L13 Assignment Week 07
+ZCZC W07 250 L09 Pop Quiz Week 07
+ZCZC W07 20 L41 TXT/mylog.txt related
+ZCZC W07 30 L43 TXT/myrank.txt related
+ZCZC W07 60 L03 GitHub related
+ZCZC W07 25 L05 QUIZ
+
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 45 L01 SCELE related
 ZCZC W06 80 L06 References/Books/Documents/Browsing/GSGS related

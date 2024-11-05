@@ -54,3 +54,9 @@ permalink: LINKS/
   md5sum Command in Linux with Examples
 * [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
   Explain about dynamic memory allocation using malloc(), calloc(), free(), and realloc()
+
+## 🖥️ WEEK07
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+  Introduction of Process Synchronization
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+  Explains about what Deadlock is, the reason why deadlock occurs, and ways of handling it
