@@ -60,3 +60,9 @@ permalink: LINKS/
   Introduction of Process Synchronization
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
   Explains about what Deadlock is, the reason why deadlock occurs, and ways of handling it
+
+## 📘 WEEK08
+* [Process Schedulers in Operating System](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
+  Process Schedulers in Operating System
+* [Youtube playlist LFS 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+  Offers a step-by-step guide for building a Linux system from scratch, giving users complete control over configuration and installed software.  
