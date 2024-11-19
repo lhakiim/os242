@@ -66,3 +66,7 @@ permalink: LINKS/
   Process Schedulers in Operating System
 * [Youtube playlist LFS 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
   Offers a step-by-step guide for building a Linux system from scratch, giving users complete control over configuration and installed software.  
+
+## 💽 WEEK09
+* [Storage Structure](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+* [LFS Instructions](https://www.linuxfromscratch.org/lfs/view/12.2/)
