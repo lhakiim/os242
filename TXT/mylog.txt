@@ -2,6 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W10 15 L62 Backup Virtual Debian Guest
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 25 L01 SCELE related
+ZCZC W10 80 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 500 L13 Assignment Week 09
+ZCZC W10 20 L09 Pop Quiz Week 08
+ZCZC W10 25 L41 TXT/mylog.txt related
+ZCZC W10 20 L43 TXT/myrank.txt related
+ZCZC W10 50 L03 GitHub related
+ZCZC W10 20 L05 QUIZ
+
 ZCZC W09 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W09 50 L01 SCELE related
 ZCZC W09 80 L06 References/Books/Documents/Browsing/GSGS related

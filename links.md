@@ -70,3 +70,7 @@ permalink: LINKS/
 ## 💽 WEEK09
 * [Storage Structure](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
 * [LFS Instructions](https://www.linuxfromscratch.org/lfs/view/12.2/)
+
+## 💾 WEEK10
+* [Review OS](https://youtu.be/8UKZbzjzV4A)
+* [I/O Programming](https://www.geeksforgeeks.org/i-o-scheduling-in-operating-systems/)
